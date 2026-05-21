@@ -12,6 +12,28 @@ img {
   font-weight: 900;
 }
 
+/* my classes */
+.info {
+  text-align: center;
+}
+
+.pics {
+  margin: 32px;
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
+.text {
+  text-align: center;
+}
+
+.one, .two, .three, .four{
+  width: 200px;
+  justify-self: center;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
